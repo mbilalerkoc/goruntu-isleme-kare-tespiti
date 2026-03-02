@@ -4,7 +4,7 @@ import cvzone
 import math
 
 model = YOLO("../models/best_v6.pt")
-cap = cv2.VideoCapture("../videos/iki_kare_video.mp4")
+cap = cv2.VideoCapture("../videos/ai_gurultu_video.mp4")
 
 while True:
     success, frame = cap.read()
