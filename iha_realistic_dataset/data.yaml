@@ -1,7 +1,0 @@
-names:
-  0: blue_square_4x4
-  1: red_square_2x2
-path: iha_realistic_dataset
-test: images/test
-train: images/train
-val: images/val

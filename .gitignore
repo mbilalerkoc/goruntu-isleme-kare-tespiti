@@ -22,4 +22,5 @@ videos/
 images/
 
 models/*.pt
-!models/best_v4.pt
+!models/best_yeni.pt
+
