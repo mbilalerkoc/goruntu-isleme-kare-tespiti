@@ -22,5 +22,5 @@ videos/
 images/
 
 models/*.pt
-!models/best_yeni.pt
+!models/best_v5.pt
 
